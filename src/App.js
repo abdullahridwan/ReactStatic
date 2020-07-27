@@ -12,7 +12,7 @@ import Footer from "./components/Footer"
 
 function App() {
   return (
-    <div className="App" style={{
+    <div className="App"  style={{
       marginLeft: "5%",
       marginRight: "5%"
     }}>
